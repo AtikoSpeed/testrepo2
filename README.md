@@ -1,6 +1,6 @@
 # Site Experiments
 
-Welcome to the Cute Site Experiments repository! This is where I'll be showcasing my colorful and fun web experiments using HTML and CSS.
+Welcome to my Site Experiments repository! This is where I'll be showcasing my colorful and fun web experiments using HTML and CSS.
 
 ## Introduction
 
