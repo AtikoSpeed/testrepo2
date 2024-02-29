@@ -14,7 +14,7 @@ img {
     border-radius: 50px;
 }
 button {
-    font-family: Ubuntu;
+    font-family: Ubuntu, sans-serif;
     background-color: #AACC33;
     color: #75468C;
     padding: 15px 32px;
