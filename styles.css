@@ -15,11 +15,11 @@ img {
 }
 button {
     font-family: Ubuntu;
-    background-color: chartreuse;
-    color: purple;
+    background-color: #AACC33;
+    color: #75468C;
     padding: 15px 32px;
     text-align: center;
-    text-decoration:overline;
+    text-decoration:overline underline;
     text-emphasis-color: black;
     display: inline-block;
     font-size: 16px;
@@ -27,6 +27,19 @@ button {
     cursor: pointer;
     border-radius: 50px;
 }
+button:hover {
+    background-color: #AACC33;
+    color: #75468C;
+    height: 100px;
+    width: 200px;
+    font-size: 32px;
+    }
+
+button:active {
+background-color: darkorchid;
+    color: #dddddd;
+}
+
 ol {
     font-size: 20px;
     color: peru;
@@ -39,4 +52,8 @@ li {
 
 .tekst-cillom {
     color:orchid;
+}
+
+.hover:hover {
+    font-size: 50px;
 }
