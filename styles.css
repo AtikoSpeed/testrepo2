@@ -1,6 +1,7 @@
 body {
     background-color:aliceblue;
     font-family: Ubuntu, sans-serif;
+    overflow: hidden;
 }
 h1 {
     color:darkorchid;
@@ -10,9 +11,11 @@ p {
     color:deeppink;
     font-size: 20px;
 }
+
 img {
     border-radius: 50px;
 }
+
 button {
     font-family: Ubuntu, sans-serif;
     background-color: #AACC33;
@@ -38,8 +41,17 @@ button:hover {
 }
 
 button:active {
-background-color: darkorchid;
+    background-color: darkorchid;
     color: aliceblue;
+}
+
+#bruhmoment {
+    font-size: 20px;
+}
+
+#bruhmoment:active {
+    font-size: 500px;
+    transition: font-size 400ms;
 }
 
 ol {
@@ -48,6 +60,7 @@ ol {
     font-weight: bold;
     font-style: italic;
     list-style-position: inside;
+    padding-right: 45px;
 }
 li {
     color:blue;
