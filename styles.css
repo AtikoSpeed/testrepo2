@@ -1,48 +1,12 @@
-body {
-    background-color:aliceblue;
-    font-family: Ubuntu, sans-serif;
-    overflow: hidden;
-}
 h1 {
     color:darkorchid;
 }
+
 /* Bonjour */
+
 p {
     color:deeppink;
     font-size: 20px;
-}
-
-img {
-    border-radius: 50px;
-}
-
-button {
-    font-family: Ubuntu, sans-serif;
-    background-color: #AACC33;
-    color: #75468C;
-    padding: 15px 32px;
-    text-align: center;
-    text-decoration:overline underline;
-    text-emphasis-color: black;
-    display: inline-block;
-    font-size: 16px;
-    height: 52px;
-    width: 96px;
-    margin: 4px 2px;
-    cursor: pointer;
-    border-radius: 50px;
-    transition: font-size 200ms, height 200ms, width 200ms, background-color 150ms, color 150ms;
-}
-
-button:hover {
-    font-size: 33px;
-    height: 100px;
-    width: 200px;
-}
-
-button:active {
-    background-color: darkorchid;
-    color: aliceblue;
 }
 
 #bruhmoment {
